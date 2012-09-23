@@ -1,0 +1,19 @@
+##
+# RabbitMQ
+# http://www.rabbitmq.com/install-debian.html#apt
+#
+# The word "testing" in this line refers to the state of our 
+# release of RabbitMQ, not any particular Debian distribution. 
+# You can use it with Debian stable, testing or unstable, as 
+# well as with Ubuntu. We describe the release as "testing" 
+# to emphasise that we release somewhat frequently.
+#
+# To avoid warnings about unsigned packages, add our public key 
+# to your trusted key list using apt-key(8):
+#
+#    wget http://www.rabbitmq.com/rabbitmq-signing-key-public.asc
+#    sudo apt-key add rabbitmq-signing-key-public.asc
+#    apt-get update
+#    apt-get install rabbitmq-server
+#
+deb http://www.rabbitmq.com/debian/ testing main

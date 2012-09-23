@@ -1,0 +1,2 @@
+# deb http://ppa.launchpad.net/kupfer-team/ppa/ubuntu oneiric main # disabled on upgrade to oneiric
+# deb-src http://ppa.launchpad.net/kupfer-team/ppa/ubuntu oneiric main # disabled on upgrade to oneiric
