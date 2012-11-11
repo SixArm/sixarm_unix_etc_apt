@@ -1,1 +1,1 @@
-wget http://www.rabbitmq.com/rabbitmq-signing-key-public.asc -O- | sudo apt-key add - 
+wget -q http://www.rabbitmq.com/rabbitmq-signing-key-public.asc -O- | apt-key add - 
