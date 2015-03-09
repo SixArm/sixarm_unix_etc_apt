@@ -1,4 +1,4 @@
-# SixArm.com » Unix » <br> /etc/apt package manager configuration, sources, and scripts
+# Unix » <br> /etc/apt package manager configuration, sources, and scripts
 
   * <code>apt-key-add</code> scripts to download and install Apt secure keys; run all these.
   * <code>installers</code> scripts to download and install packages; run the ones you want.
